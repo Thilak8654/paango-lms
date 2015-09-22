@@ -1,0 +1,47 @@
+.addbtn{
+	  padding: 20px 30px;
+  border-radius: 5px;
+  background: #458B00;
+  outline: none;
+  border: none;
+  position: relative;
+  top: 80px;
+  margin: 0 auto;
+  display: table;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+form{
+	 margin: 0 auto;
+  display: table;
+  position: relative;
+  top: 50px;
+	
+}
+span{
+	color:red;
+}
+textarea{
+	vertical-align:middle;
+	width:180px;
+	height:116px;
+	margin-bottom:30px;
+}
+form input:nth-child(2){
+	margin-left:95px;
+}
+form textarea:nth-child(5){
+	margin-left:61px;
+}
+input[type="submit"]{
+	float:right;
+}
+select{
+	margin-left:160px !important;
+}
+input, select {
+  margin-bottom: 30px;
+  padding: 8px;
+  margin-left: 15px;
+}
